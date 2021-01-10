@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wifi_Blueetooth_Status</string>
+    <string name="internet_not_connect_tex">Network Unavailable!</string>
+    <string name="Retry_to_connect">Please try again</string>
+    <string name="Retry_button_text">Try again</string>
+    <string name="connection_avail">WiFi/Mobile Networks Connected!</string>
+    <string name="connection_avail_blue">Bluetooth Connected!</string>
+    <string name="connection_avail_blue_not">Bluetooth Not Connected!</string>
+</resources>
